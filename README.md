@@ -39,7 +39,7 @@ The Iris dataset contains:
 
 ## 📁 Project Structure
 
-flower-classification/ │ ├── main.py # Main Python script ├── README.md # Project documentation
+flower-classification/ │ ├── Flower classification.py # Main Python script ├── README.md # Project documentation
 
 ---
 
